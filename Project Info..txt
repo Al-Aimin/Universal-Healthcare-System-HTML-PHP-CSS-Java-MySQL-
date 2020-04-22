@@ -1,0 +1,14 @@
+9. HEALTH CARE ORGANIZATION DATABASE PROJECT 
+
+This organization provides following functionalities Emergency Care 24x7 Support, Groups Support and Help Through calls 
+Any new Patient is first registered in their database prior to meet the doctor. 
+The Doctor can update the data related to the patient upon diagnosis (Including the disease diagnosed and prescription). 
+This organization also provides rooms facility for admitting patient who are critical. 
+Apart from doctors, this organization has nurses and ward boy. Each nurse and ward boy is assigned to a doctor. 
+Also, they can be assigned to patients (to take care of them). 
+The bill is paid by the patient with cash and E-banking. 
+Record of each payment made is also maintained by the organization. 
+The record of each call received to provide help and support to its existing person is also maintained.
+
+
+
